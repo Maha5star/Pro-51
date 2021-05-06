@@ -1,0 +1,52 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+    font-size: 20px;
+    font-family:cursive;
+    font-weight: 400;
+    color:maroon
+}
+
+/*{border: solid;
+}*/
+
+html{
+    background:papayawhip;
+}
+
+h3{
+    display:flex;
+    text-align:center;
+    font-style: italic;
+    color:red;
+
+}
+
+h4{
+    color:purple;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+
+.grid img{
+border: 2px solid black;
+border-radius: 50px;
+background:whitesmoke;
+}
+
+.origami{
+    border-radius: 10px;
+     
+    width: 310px;
+}
+
+.heading {
+     font-family:'Times New Roman', Times, serif;
+     background-color:salmon;
+     color:snow
+}
